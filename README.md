@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sebastianheischmann
-- 👀 I’m interested in Video Games.
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#, JavaScript and C++
 - 📫 How to reach me: You can't!
 
 <!---
